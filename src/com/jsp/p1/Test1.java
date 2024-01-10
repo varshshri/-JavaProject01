@@ -4,6 +4,7 @@ public class Test1 {
 
 	public static void main(String[] args) {
      //changed made by ammu 
+		//changes are made by friend 
 		
 		
 		
